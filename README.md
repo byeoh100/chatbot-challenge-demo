@@ -7,11 +7,11 @@
 **Deal or Dragon**, formerly known as Chatbot Challenge, is a standard dungeon crawler with a twist: instead of *fighting* the monsters, you are trying to convince them to *buy* an item.
 
 ## Collaborators
-* Len Kedrow
-* Kyle Bleeker
-* Brandon Yeoh
-* Erika Holzinger
-* Christopher Roberts
+* Len Kedrow | [LinkedIn](https://www.linkedin.com/in/len-kedrow-72abb969/) | [GitHub](https://github.com/Len-Kedrow)
+* Kyle Bleeker | [LinkedIn](https://www.linkedin.com/in/kyle-bleeker-a0b7382b8/) | [GitHub](https://github.com/ksbleek)
+* Brandon Yeoh | [LinkedIn](https://www.linkedin.com/in/brandon-yeoh/) | [GitHub](https://github.com/byeoh100)
+* Erika Holzinger | [LinkedIn](https://www.linkedin.com/in/erikaholzinger/details/experience/) | [GitHub](https://github.com/iamAtomika)
+* Christopher Roberts | [LinkedIn](https://www.linkedin.com/in/christopher-roberts-90682a170/) | [GitHub](https://github.com/ChrisRoberts13)
 
 ## Features
 * **Account Creation**
